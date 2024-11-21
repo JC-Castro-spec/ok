@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Basic Inverter Design and Installation Service</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        header h1 {
+            margin: 0;
+        }
+        nav {
+            background-color: #34495e;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+            margin: 0 10px;
+            font-weight: bold;
+        }
+        nav a:hover {
+            background-color: #1abc9c;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+        }
+        .services, .process, .contact {
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            color: #2c3e50;
+        }
+        footer {
+            background-color: #34495e;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        .contact-form input, .contact-form textarea {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        .contact-form button {
+            background-color: #2c3e50;
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .contact-form button:hover {
+            background-color: #1abc9c;
+        }
+        .contact-details {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #ecf0f1;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Basic Inverter Design and Installation Service</h1>
+        <p>Providing reliable and efficient inverter solutions for your energy needs</p>
+    </header>
+
+    <nav>
+        <a href="#services">Our Services</a>
+        <a href="#process">Our Process</a>
+        <a href="#contact">Contact Us</a>
+    </nav>
+
+    <section id="services" class="services">
+        <h2>Our Services</h2>
+        <p>We offer complete inverter design and installation services for both residential and commercial properties. Our services include:</p>
+        <ul>
+            <li>Custom Inverter Design</li>
+            <li>Installation and Setup</li>
+            <li>System Monitoring and Maintenance</li>
+            <li>Energy Efficiency Consulting</li>
+            <li>Backup Power Solutions</li>
+        </ul>
+    </section>
+
+    <section id="process" class="process">
+        <h2>Our Process</h2>
+        <p>We follow a streamlined process to ensure quality service and customer satisfaction:</p>
+        <ol>
+            <li><strong>Consultation:</strong> We begin with a site visit to assess your power needs and recommend the best inverter solution.</li>
+            <li><strong>Design:</strong> We provide a customized design tailored to your specific requirements, including the size and placement of the inverter system.</li>
+            <li><strong>Installation:</strong> Our certified technicians handle the installation, ensuring everything is set up according to industry standards.</li>
+            <li><strong>Testing:</strong> We test the system to ensure proper operation and energy efficiency.</li>
+            <li><strong>Maintenance:</strong> We offer ongoing support and maintenance to keep your inverter system running smoothly.</li>
+        </ol>
+    </section>
+
+    <section id="contact" class="contact">
+        <h2>Contact Us</h2>
+        <p>If you are interested in our inverter design and installation services, feel free to reach out to us!</p>
+        
+        <div class="contact-details">
+            <p><strong>Phone:</strong> 0961-478-0774</p>
+            <p><strong>Email:</strong> <a href="mailto:castrojc182003@gmail.com">castrojc182003@gmail.com</a></p>
+        </div>
+
+        <div class="contact-form">
+            <form action="#" method="POST">
+                <input type="text" name="name" placeholder="Your Name" required>
+                <input type="email" name="email" placeholder="Your Email" required>
+                <textarea name="message" rows="5" placeholder="Your Message" required></textarea>
+                <button type="submit">Send Message</button>
+            </form>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Basic Inverter Design & Installation Service. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
+Sent
+Write to
